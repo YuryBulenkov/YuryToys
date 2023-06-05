@@ -1,0 +1,10 @@
+id: 3 name: Doll count: 2 droprate: 90  
+id: 2 name: Designer count: 3 droprate: 83  
+id: 5 name: Ropbot2 count: 2 droprate: 71  
+id: 9 name: Car2 count: 3 droprate: 66  
+id: 8 name: Plane count: 2 droprate: 59  
+id: 10 name: Dinosaur count: 2 droprate: 55  
+id: 7 name: Car3 count: 3 droprate: 43  
+id: 6 name: Fixik count: 2 droprate: 9  
+id: 1 name: Robot1 count: 2 droprate: 4  
+id: 4 name: Car1 count: 3 droprate: 2  
